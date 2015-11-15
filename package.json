@@ -1,0 +1,24 @@
+{
+  "name": "nodeinstagram",
+  "version": "1.0.0",
+  "description": "Instagram api on a node js website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mummamw/garrulous-octo-barnacle.git"
+  },
+  "author": "Michael M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mummamw/garrulous-octo-barnacle/issues"
+  },
+  "homepage": "https://github.com/mummamw/garrulous-octo-barnacle#readme",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "instagram-node": "^0.5.8"
+  }
+}
