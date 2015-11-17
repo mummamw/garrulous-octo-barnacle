@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mummamw/garrulous-octo-barnacle#readme",
   "dependencies": {
+    "dotenv": "^1.2.0",
     "ejs": "^2.3.4",
     "express": "^4.13.3",
     "instagram-node": "^0.5.8"
